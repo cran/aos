@@ -1,0 +1,16 @@
+32d2f58b60da99b6bf6c3fe94736c508 *DESCRIPTION
+1ab01a854c7d24fc4118e71fa14171ac *LICENSE
+2c91c69ef37577c38a14ecdcd55cc741 *NAMESPACE
+12e292227927b4a35b5d3b6304e6bce3 *R/aos.R
+70ee0012edb1585d5cd09ab63eb59d2e *R/use_aos.R
+1001c6ec55324914483cf092f86c8982 *R/use_aos_refresh.R
+773fa1ce7c9eaa74aedb4ed510411326 *README.md
+847da8fca8060ca1a70f976aab1210b9 *inst/aos-css-2.3.4/aos.css
+d3718e34eeb0355be8e3179a2e2bccb7 *inst/aos-js-2.3.4/aos.js
+392cd964ceead8c510974f7708175c9b *man/aos.Rd
+7eda413afa2714157467d11bee786a09 *man/figures/empty_white.png
+b8591da0404979e6bb39e114c9e6f882 *man/figures/logo.png
+b70def27b7e4725bdf1e05b290d77113 *man/figures/logo_large.png
+d59bfb4a433b40b4ad00807d471b7a11 *man/use_aos.Rd
+4f8f247b312943dbbaff2dc4cf5800c4 *man/use_aos_refresh.Rd
+d8216b4bc0ad14b7b333b7a3db369fed *man/use_aos_refresh_hard.Rd
